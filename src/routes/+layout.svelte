@@ -10,7 +10,7 @@
 </script>
 
 <svelte:head>
-	<!-- <link rel="manifest" href="{base}/manifest.json" /> -->
+	<link rel="manifest" href="{base}/manifest.json" />
 </svelte:head>
 
 <slot />
